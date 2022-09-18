@@ -1,5 +1,5 @@
 # Music-Sheet-Transcription
-This Project aim to take a music of mp3 file type into machine learning, with return of a midi file of the notes of the music.
+This Project aim to take a music of mp3 file type into machine learning model, with return of a midi file of the notes of the music.
 
 - Generate_MIDI.ipynb (Tools to generate Midi dataset)
 - Music_feature_extraction.ipynb (As the first attempt to extract music features) 
